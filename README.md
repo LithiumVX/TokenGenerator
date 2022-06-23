@@ -2,6 +2,7 @@
 - Lithium Token Generator Coded By LithiumVX & LithiumKZ
 
 # Features
+- You Can Edit Settings In Setting.Json
 - Captcha Bypass
 - No Captcha Required 
 - Custom Username
