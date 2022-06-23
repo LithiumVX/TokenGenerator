@@ -1,0 +1,16 @@
+{
+    "CaptchaBypass: True"
+    "UserName: Lithium | "
+    "Password: LithiumGen@"
+    "EmailVerify: True"
+    "PhoneVerify: True"
+    "BypassRateLimit: True"
+    "Amount: 100"
+    "Invite: Discord.gg/Example"
+    "SaveTokens: Tokens.txt"
+    "ProfilePicLink: "
+    "Bio: False"
+       "If True , Put Text Here"
+    "Status: False"
+       "If True , Put Text Here"
+}
