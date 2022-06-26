@@ -1,5 +1,6 @@
 # v1.1 ChangeLog
 - Fixed Program Not Opening
+- Bypass Discord Phone Verify
 - Fixed Setting Change Not Working
 - Fixed Captcha Bypass Not Working
 
