@@ -1,3 +1,10 @@
+# v1.1 ChangeLog
+- Fixed Program Not Opening
+- Fixed Setting Change Not Working
+- Fixed Captcha Bypass Not Working
+
+- Tnx For Supporting Lithium Team <3
+
 # Lithium TokenGen
 - Lithium Token Generator Coded By LithiumVX & LithiumKZ
 
